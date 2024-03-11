@@ -9,7 +9,8 @@ The following list categorises my data visualisation projects by topic and theme
 --- 
 
 ### Politics
-1. [2016 Brexit Referendum Result]('https://github.com/gu-chengyang/Data-Visualisation/blob/main/Brexit_Visualisation.ipynb')
+1. [2016 Brexit Referendum Result](https://github.com/gu-chengyang/Data-Visualisation/blob/main/Brexit_Visualisation.ipynb)
+2. <https://github.com/gu-chengyang/Data-Visualisation/blob/main/Brexit_Visualisation.ipynb>
 ### Business and Economy
 ### Entertainment
 ### Others
