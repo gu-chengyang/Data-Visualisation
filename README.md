@@ -13,6 +13,7 @@ The following list categorises my data visualisation projects by topic and theme
 ### Business and Economy
 1. [Top 50 Billionaires by Industry and Region (Python)](https://github.com/gu-chengyang/Data-Visualisation/tree/main/Python/Top50_Billionaire)
 2. [The USD-Euro Exchange Rates during Different Presidentail Terms (Python)](https://github.com/gu-chengyang/Data-Visualisation/tree/65347be38186f8c5c9131b664b63338e7d5e610d/Python/US-Euro_Rate)
+3. [The US Partisan Polarisation in 2014 (Python)](https://github.com/gu-chengyang/Data-Visualisation/tree/main/Python/US_Polarization)
 ### Entertainment
 ### Others
 
